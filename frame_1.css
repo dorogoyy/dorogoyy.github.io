@@ -1,0 +1,622 @@
+/*
+	@name frame_1
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1379px; width: 1379px;  overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+#content-container > div{ position: relative; top:inherit; }
+#page_frame_1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1379px;
+	height: 1002px;
+}
+
+#_bg__frame_1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1379px;
+	height: 1002px;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_1 {
+	top: 2px;
+	left: 0px;
+	width: 1373px;
+	height: 1000px;
+	background:rgba(255,255,255,1);
+}
+
+
+#alex_ledok {
+	top: 152px;
+	left: 425px;
+	width: 161px;
+	height: 48px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#flag_of_russia_1 {
+	top: 154px;
+	left: 556px;
+	width: 32px;
+	height: 21px;
+}
+
+
+#__worker094 {
+	top: 183px;
+	left: 425px;
+	width: 103.5px;
+	height: 24.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 13px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_14yo__junior_suetolog____________________ {
+	top: 222px;
+	left: 428px;
+	width: 278.5px;
+	height: 48.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 15px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_2 {
+	top: 293px;
+	left: 290px;
+	width: 127px;
+	height: 49px;
+	-ms-border-radius: 24px;
+	-o-border-radius: 24px;
+	-moz-border-radius: 24px;
+	-webkit-border-radius: 24px;
+	border-radius: 24px;
+	border: 3px solid #000000;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_4 {
+	top: 293px;
+	left: 572px;
+	width: 215px;
+	height: 49px;
+	-ms-border-radius: 24px;
+	-o-border-radius: 24px;
+	-moz-border-radius: 24px;
+	-webkit-border-radius: 24px;
+	border-radius: 24px;
+	border: 3px solid #000000;
+	background:rgba(255,255,255,1);
+}
+
+
+#rectangle_3 {
+	top: 293px;
+	left: 431px;
+	width: 127px;
+	height: 49px;
+	-ms-border-radius: 24px;
+	-o-border-radius: 24px;
+	-moz-border-radius: 24px;
+	-webkit-border-radius: 24px;
+	border-radius: 24px;
+	border: 3px solid #000000;
+	background:rgba(255,255,255,1);
+}
+
+
+#_______ {
+	top: 396px;
+	left: 290px;
+	width: 221px;
+	height: 56px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#___________ {
+	top: 548px;
+	left: 290px;
+	width: 261px;
+	height: 59px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 30px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#____________________________international_scientific_and_technical_university___________2_______________________________________________________________________________________________________________________________________________________________ {
+	top: 455px;
+	left: 290px;
+	width: 829px;
+	height: 84px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 16px;
+	text-align: left;
+	color:#717579;
+}
+
+
+#___________________________________________________________________________________________________________________office_saratov___remote_job {
+	top: 610px;
+	left: 290px;
+	width: 829px;
+	height: 84px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 16px;
+	text-align: left;
+	color:#717579;
+}
+
+
+#union {
+	top: 143px;
+	left: 281px;
+	width: 130px;
+	height: 130px;
+}
+
+
+#telegram_black_logo_1024x848_1 {
+	position: absolute;
+	width: 21px;
+	height: 17px;
+	left: 428px;
+	top: 260px;
+}
+
+
+#telegram {
+	top: 310px;
+	left: 332px;
+	width: 74px;
+	height: 19px;
+	overflow: hidden;
+	font-family: Inter;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 19px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_25684_1 {
+	position: absolute;
+	width: 24px;
+	height: 13px;
+	left: 456px;
+	top: 262px;
+	
+}
+
+
+#vkontakte {
+	top: 310px;
+	left: 473px;
+	width: 100px;
+	height: 28px;
+	overflow: hidden;
+	font-family: Inter;
+	font-style: black;
+	font-size: 16px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#_584856b4e0bb315b0f7675ac_1 {
+	position: absolute;
+width: 22px;
+height: 17px;
+left: 488px;
+top: 261px;
+}
+
+
+#rdpsll9_gmail_com {
+	top: 310px;
+	left: 623px;
+	width: 168px;
+	height: 30px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 16px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#aledok___2022 {
+	top: 976px;
+	left: 632px;
+	width: 126.5px;
+	height: 26.5px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 13px;
+	text-align: left;
+	color:#717679;
+}
+
+#line {
+	position: absolute;
+width: 808px;
+height: 4px;
+left: 290px;
+top: 355px;
+
+background: rgba(0, 0, 0, 0.06);
+}
+
+#line2 {
+	position: absolute;
+width: 808px;
+height: 4px;
+left: 286px;
+top: 707px;
+
+background: rgba(0, 0, 0, 0.06);
+}
+
+@media(max-width: 650px){
+	#page_frame_1_ek1 {
+		top: 0px;
+		left: 0px;
+		width: 1379px;
+		height: 1002px;
+	}
+	
+	#_bg__frame_1_ek2 {
+		top: 0px;
+		left: 0px;
+		width: 1379px;
+		height: 1002px;
+		background:rgba(255,255,255,1);
+	}
+	
+	
+	#rectangle_1 {
+		position: absolute;
+width: 640px;
+height: 1000px;
+left: 0px;
+top: 2px;
+
+background: #FFFFFF;
+	}
+	
+	
+	#alex_ledok {
+		position: absolute;
+width: 132px;
+height: 31px;
+left: 194px;
+top: 91px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+	}
+	
+	
+	#flag_of_russia_1 {
+		box-sizing: border-box;
+
+position: absolute;
+width: 32px;
+height: 21px;
+left: 325px;
+top: 93px;
+
+	}
+	
+	
+	#__worker094 {
+		position: absolute;
+width: 85px;
+height: 15px;
+left: 194px;
+top: 122px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 16px;
+
+color: #000000;
+	}
+	
+	
+	#_14yo__junior_suetolog____________________ {
+		position: absolute;
+width: 258px;
+height: 38px;
+left: 194px;
+top: 153px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 18px;
+
+color: #000000;
+	}
+	
+	
+	#rectangle_2 {
+		top: 293px;
+		left: 290px;
+		width: 127px;
+		height: 49px;
+		-ms-border-radius: 24px;
+		-o-border-radius: 24px;
+		-moz-border-radius: 24px;
+		-webkit-border-radius: 24px;
+		border-radius: 24px;
+		border: 3px solid #000000;
+		background:rgba(255,255,255,1);
+	}
+	
+	
+	#rectangle_4 {
+		top: 293px;
+		left: 572px;
+		width: 215px;
+		height: 49px;
+		-ms-border-radius: 24px;
+		-o-border-radius: 24px;
+		-moz-border-radius: 24px;
+		-webkit-border-radius: 24px;
+		border-radius: 24px;
+		border: 3px solid #000000;
+		background:rgba(255,255,255,1);
+	}
+	
+	
+	#rectangle_3 {
+		top: 293px;
+		left: 431px;
+		width: 127px;
+		height: 49px;
+		-ms-border-radius: 24px;
+		-o-border-radius: 24px;
+		-moz-border-radius: 24px;
+		-webkit-border-radius: 24px;
+		border-radius: 24px;
+		border: 3px solid #000000;
+		background:rgba(255,255,255,1);
+	}
+	
+	
+	#_______ {
+		position: absolute;
+		width: 186px;
+		height: 35px;
+		left: 59px;
+		top: 335px;
+		
+		font-family: 'Inter';
+		font-style: normal;
+		font-weight: 900;
+		font-size: 30px;
+		line-height: 36px;
+		
+		color: #000000;
+	}
+	
+	
+	#___________ {
+		position: absolute;
+width: 226px;
+height: 38px;
+left: 55px;
+top: 501px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 30px;
+line-height: 36px;
+
+color: #000000;
+	}
+	
+	
+	#____________________________international_scientific_and_technical_university___________2_______________________________________________________________________________________________________________________________________________________________ {
+		position: absolute;
+		width: 530px;
+		height: 93px;
+		left: 59px;
+		top: 378px;
+		
+		font-family: 'Inter';
+		font-style: normal;
+		font-weight: 500;
+		font-size: 16px;
+		line-height: 19px;
+		
+		color: #717679;
+	}
+	
+	
+	#___________________________________________________________________________________________________________________office_saratov___remote_job {
+		position: absolute;
+width: 543px;
+height: 80px;
+left: 59px;
+top: 549px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+color: #717679;
+	}
+	
+	
+	#union {
+		box-sizing: border-box;
+
+position: absolute;
+width: 130px;
+height: 130px;
+left: 50px;
+top: 82px;
+	}
+	
+	
+	#telegram_black_logo_1024x848_1 {
+		position: absolute;
+width: 21px;
+height: 17px;
+left: 197px;
+top: 199px;
+	}
+	
+	
+	#telegram {
+		top: 310px;
+		left: 332px;
+		width: 74px;
+		height: 19px;
+		overflow: hidden;
+		font-family: Inter;
+		font-style: normal;
+		font-weight: 500;
+		font-size: 16px;
+		line-height: 19px;
+		text-align: left;
+		color:#000000;
+	}
+	
+	
+	#_25684_1 {
+		position: absolute;
+		width: 24px;
+		height: 13px;
+		left: 225px;
+		top: 201px;
+		
+	}
+	
+	
+	#vkontakte {
+		top: 310px;
+		left: 473px;
+		width: 100px;
+		height: 28px;
+		overflow: hidden;
+		font-family: Inter;
+		font-style: black;
+		font-size: 16px;
+		text-align: left;
+		color:#000000;
+	}
+	
+	
+	#_584856b4e0bb315b0f7675ac_1 {
+		position: absolute;
+		width: 22px;
+		height: 17px;
+		left: 257px;
+		top: 200px;
+	}
+	
+	
+	#rdpsll9_gmail_com {
+		top: 310px;
+		left: 623px;
+		width: 168px;
+		height: 30px;
+		overflow: hidden;
+		font-family: Inter;
+		font-size: 16px;
+		text-align: left;
+		color:#000000;
+	}
+	
+	
+	#aledok___2022 {
+		position: absolute;
+		width: 108px;
+		height: 17px;
+		left: 266px;
+		top: 973px;
+		
+		font-family: 'Inter';
+		font-style: normal;
+		font-weight: 500;
+		font-size: 13px;
+		line-height: 16px;
+		
+		color: #717679;
+	}
+	
+	#line {
+		position: absolute;
+		width: 543px;
+		height: 5px;
+		left: 59px;
+		top: 294px;
+		
+		background: rgba(0, 0, 0, 0.06);
+	}
+	
+	#line2 {
+		position: absolute;
+		width: 547px;
+		height: 5px;
+		left: 55px;
+		top: 646px;
+		
+		background: rgba(0, 0, 0, 0.06);
+	}
+
+	}
+
+
+
